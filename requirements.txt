@@ -1,0 +1,6 @@
+whisper
+torch
+pydub
+streamlit
+spacy
+os
